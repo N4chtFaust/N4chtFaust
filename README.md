@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gibert Malto</h1>
 
 <p align="center">
-    <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Profile Image" style="border-radius: 50%; width: 100%; height: 300px;" />
+    <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Profile Image" style="border-radius: 50%; width: 100; height: 300px;" />
 </p>
 
 
