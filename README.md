@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Profile Image" width="200"/>
+  <img src="Nacht Faust 🍀.jpg" alt="Profile Image" width="200" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Gibert Malto</h1>
