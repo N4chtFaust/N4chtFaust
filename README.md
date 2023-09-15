@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Profile Image" width="200"/>
+  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Profile Image" width="200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Gilbert Malto</h1>
+<h1 align="center">Hi 👋, I'm Gibert Malto</h1>
 <h3 align="center">A passionate Software developer from the Philippines.</h3>
 
 - 🌱 I’m currently learning **Associate in Computer Technology (ACT)**.
 
-- 👨‍💻 All of my projects are available at [INSERT_PROJECT_LINK_HERE](#).
+- 👨‍💻 All of my projects are available at (#).
 
 - 📫 How to reach me: **4thkomugi@gmail.com**
 
