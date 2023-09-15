@@ -1,9 +1,10 @@
 
 <p align="center">
-  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-    <img src="Nacht Faust 🍀.jpg" alt="Profile Image" width="200"/>
+  <div style="text-align: center;">
+    <img src="Nacht Faust 🍀.jpg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;" />
   </div>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Gibert Malto</h1>
