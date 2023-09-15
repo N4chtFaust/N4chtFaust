@@ -1,11 +1,12 @@
 
+
+<h1 align="center">Hi 👋, I'm Gibert Malto</h1>
+
 <p align="center">
     <img src="Nacht Faust 🍀.jpg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;" />
 </p>
 
 
-
-<h1 align="center">Hi 👋, I'm Gibert Malto</h1>
 <h3 align="center">A passionate Software developer from the Philippines.</h3>
 
 - 🌱 I’m currently learning **Associate in Computer Technology (ACT)**.
