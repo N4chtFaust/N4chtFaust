@@ -1,8 +1,6 @@
 
 <p align="center">
-  <div style="text-align: center;">
     <img src="Nacht Faust 🍀.jpg" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;" />
-  </div>
 </p>
 
 
