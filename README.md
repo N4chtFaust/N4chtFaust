@@ -1,6 +1,10 @@
+
 <p align="center">
-  <img src="Nacht Faust 🍀.jpg" alt="Profile Image" width="200" style="border-radius:50%;"/>
+  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+    <img src="Nacht Faust 🍀.jpg" alt="Profile Image" width="200"/>
+  </div>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Gibert Malto</h1>
 <h3 align="center">A passionate Software developer from the Philippines.</h3>
